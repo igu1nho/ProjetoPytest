@@ -17,6 +17,7 @@ Lucas(Quantidade de títulos de um time de futebol)
 Rodrigo()
 
 ## Equipe
+<table>
   <tr>
     <td align="center"><a href="https://github.com/igu1nho"><img src="https://avatars.githubusercontent.com/u/89806466?s=400&u=e8107d3d169b3775f289e49470b097b45d778d68&v=4" width="100px;" alt="Igor Luiz Rodrigues"/><br /><sub><b>Igor Luiz Rodrigues</b></sub></a><br /><a href="#question-CompuIves" title="Answering Questions">💬</a> <a href="#blog-CompuIves" title="Blogposts">📝</a> <a href="https://github.com/codesandbox/codesandbox-client/issues?q=author%3ACompuIves" title="Bug reports">🐛</a> <a href="https://github.com/codesandbox/codesandbox-client/commits?author=CompuIves" title="Code">💻</a> <a href="#design-CompuIves" title="Design">🎨</a> <a href="https://github.com/codesandbox/codesandbox-client/commits?author=CompuIves" title="Documentation">📖</a> <a href="#example-CompuIves" title="Examples">💡</a> <a href="#infra-CompuIves" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#review-CompuIves" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/codesandbox/codesandbox-client/commits?author=CompuIves" title="Tests">⚠️</a> <a href="#tool-CompuIves" title="Tools">🔧</a></td>
     Curso: GEC   Matrícula: 1523
@@ -25,6 +26,7 @@ Rodrigo()
 <td align="center"><a href="https://github.com/Zenks1"><img src="https://avatars.githubusercontent.com/u/77506652?v=4" width="100px;" alt="Rodrigo Paiva de Oliveiera Ferreira Braga"/><br /><sub><b>Rodrigo Paiva</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=CompuIves" title="Code">💻<a h/a><a href="#example-CompuIves" title="Examples">💡</a>td>
     Curso: GEC   Matrícula: 1540
   </tr>
+<table>
 
 ## Instalação ⚙💻
 Se você gostaria de saber um pouco mais das informações sobre essa ferramenta de teste, você pode acessar a documentação oficial do <a href="https://docs.pytest.org/en/stable/index.html">Pytest</a>.<br> , o processo de instalação é simples. Basta seguir o passo a passo abaixo:
