@@ -23,7 +23,7 @@ Rodrigo()
    
     <td align="center"><a href="https://github.com/LucasHGraciano"><img src="https://avatars.githubusercontent.com/u/89883718?v=4" width="100px;" alt="Lucas Henrique Vilasboas Graciano"/><br /><sub><b>Lucas Henrique Vilasboas Graciano</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=CompuIves" title="Code">💻</a><a href="#example-CompuIves" title="Examples">💡</a><a href="#review-CompuIves" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/codesandbox/codesandbox-client/commits?author=CompuIves" title="Tests">⚠️</a> <a href="#tool-CompuIves" title="Tools">🔧</a></td>
      
-     <td align="center"><a href="https://github.com/Zenks1"><img src="https://avatars.githubusercontent.com/u/77506652?v=4" width="100px;" alt="Rodrigo Paiva de Oliveiera Ferreira Braga"/><br /><sub><b>Rodrigo Paiva</b></sub></a><br /></a></td>
+     <td align="center"><a href="https://github.com/Zenks1"><img src="https://avatars.githubusercontent.com/u/77506652?v=4" width="100px;" alt="Rodrigo Paiva de Oliveiera Ferreira Braga"/><br /><sub><b>Rodrigo Paiva</b></sub></a><br /></td>
   </tr>
 </table>
    
