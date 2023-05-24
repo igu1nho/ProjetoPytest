@@ -19,7 +19,7 @@ Rodrigo()
 ## Equipe
 <table>
   <tr>
-     <td align="center"><img src="https://avatars.githubusercontent.com/u/89806466?s=400&u=e8107d3d169b3775f289e49470b097b45d778d68&v=4" width="100px;" alt="Igor Luiz Rodrigues"/></td>
+     <td align="center"><img src="https://avatars.githubusercontent.com/u/89806466?s=400&u=e8107d3d169b3775f289e49470b097b45d778d68&v=4" width="100px;" alt="Igor Luiz Rodrigues"/></td>,
      
      <td align="center"><img src="https://avatars.githubusercontent.com/u/89806466?s=400&u=e8107d3d169b3775f289e49470b097b45d778d68&v=4" width="100px;" alt="Igor Luiz Rodrigues"/></td>
      
