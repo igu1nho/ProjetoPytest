@@ -1,4 +1,4 @@
-<h1 align="center"> Seminário Pytest💻 </h1>
+<h1 align="center"> Pytest💻 </h1>
 
 - [Projeto](#o-projeto-)
 - [Equipe](#equipe)
