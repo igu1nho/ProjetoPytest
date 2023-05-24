@@ -105,7 +105,7 @@ pytest -x ou pytest nome_do_arquivo.py -x
 <!--te-->
 
 ## Monitor
-![image](https://imgur.com/6FSDgDf)
+![image]([https://imgur.com/6FSDgDf](https://i.imgur.com/6FSDgDf.png))
 
 ## Teste Monitor
 ![image](https://imgur.com/i0IeGbF)
