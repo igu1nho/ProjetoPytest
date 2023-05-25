@@ -110,19 +110,19 @@ pytest -x ou pytest nome_do_arquivo.py -x
 <!--te-->
 
 ## Monitor
-![image](https://i.imgur.com/vPEpQAj.png)
+![image](https://camo.githubusercontent.com/1d2b281547283b669bbf24e572c9cad285a931506446b657206c410df5dac1fc/68747470733a2f2f692e696d6775722e636f6d2f7650457051416a2e706e67)
 
 ## Teste Monitor
-![image](https://i.imgur.com/kVTtfX5.png)
+![image](https://camo.githubusercontent.com/dc6c0d473b4a68e866d54a8699d53ca49b5e435ab5c19fa48a271862a3d0f7ee/68747470733a2f2f692e696d6775722e636f6d2f6b5654746658352e706e67)
 
 ## Time de Futebol
-![image](https://i.imgur.com/2p1UQUc.png)
+![image](https://camo.githubusercontent.com/fb339bb1aa7ab7cf33ef0465966ff37156a40f4287f0a150716774a9feb787d1/68747470733a2f2f692e696d6775722e636f6d2f327031555155632e706e67)
 
 ## Teste Time de Futebol
-![image](https://i.imgur.com/plYoHId.png)
+![image](https://camo.githubusercontent.com/fae8dcfde795b867dee802b4ef51056c9e8f466aeab6226ad60724cdfc3aed80/68747470733a2f2f692e696d6775722e636f6d2f706c596f4849642e706e67)
 
 ## Game
-![image](https://i.imgur.com/cAuBdTe.png)
+![image](https://camo.githubusercontent.com/d95e92db9233b6d0408276c3fda7ee3518417f5beeedbf7b3ad0b647a7c0f036/68747470733a2f2f692e696d6775722e636f6d2f634175426454652e706e67)
 
 ## Teste Game
-![image](https://i.imgur.com/pciP0kA.png)
+![image](https://camo.githubusercontent.com/0729c833cbf5523efa886ca42f708e9ab8998a52bd7ca1731fdf58d8462414d8/68747470733a2f2f692e696d6775722e636f6d2f70636950306b412e706e67)
