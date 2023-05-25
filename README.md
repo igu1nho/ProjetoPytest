@@ -92,9 +92,9 @@ pytest -x ou pytest nome_do_arquivo.py -x
   * :file_folder: atendimento
     * :file_folder: test
         * :page_facing_up: __init__.py
-        * :page_facing_up: [test_atendimento.py](#teste-atendimento)
+        * :page_facing_up: [test_monitoria.py](#teste-atendimento)
      * :page_facing_up: __init__.py
-     * :page_facing_up: [atendimento.py](#atendimento)
+     * :page_facing_up: [monitoria.py](#atendimento)
 <!--te-->
 
 <!--ts-->
