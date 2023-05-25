@@ -17,8 +17,9 @@ Lucas(Quantidade de títulos de um time de futebol)
 Rodrigo()
 
 ## Equipe
-| ![Igor Luiz Rodrigues](https://avatars.githubusercontent.com/u/89806466?s=400&u=e8107d3d169b3775f289e49470b097b45d778d68&v=4) | ![Lucas Henrique](https://avatars.githubusercontent.com/u/89883718?v=4) | ![Rodrigo Braga](https://avatars.githubusercontent.com/u/77506652?v=4) |
+| [![Igor Luiz Rodrigues](https://avatars.githubusercontent.com/u/89806466?s=400&u=e8107d3d169b3775f289e49470b097b45d778d68&v=4)](https://github.com/igu1nho)</br> Igor Luiz Rodrigues | [![Lucas Henrique](https://avatars.githubusercontent.com/u/89883718?v=4)](https://github.com/LucasHGraciano)</br> Lucas Henrique | [![Rodrigo Braga](https://avatars.githubusercontent.com/u/77506652?v=4)](https://github.com/Zenks1)</br> Rodrigo Braga |
 | --- | --- | --- |
+
 | Igor Luiz Rodrigues | Lucas Henrique | Rodrigo Braga |
 
 ## Instalação ⚙💻
