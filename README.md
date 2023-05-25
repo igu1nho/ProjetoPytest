@@ -23,7 +23,7 @@ Rodrigo()
 
 
 ## Instalação ⚙💻
-Se você gostaria de saber um pouco mais das informações sobre essa ferramenta de teste, você pode acessar a documentação oficial do <a href="https://docs.pytest.org/en/stable/index.html">Pytest</a>.<br> , O processo de instalação é simples, basta seguir o passo a passo abaixo:
+Se você gostaria de saber um pouco mais das informações sobre essa ferramenta de teste, você pode acessar a documentação oficial do <a href="https://docs.pytest.org/en/stable/index.html">Pytest</a>.<br> O processo de instalação é simples, basta seguir o passo a passo abaixo:
 
 ### Pré-requisitos
 Para instalar o Pytest é necessário ter em sua máquina o Python instalado <a href="https://www.python.org/">python.org</a>
