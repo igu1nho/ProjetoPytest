@@ -107,7 +107,7 @@ pytest -x ou pytest nome_do_arquivo.py -x
 <!--te-->
 
 <!--ts-->
-  * :file_folder: timefutebol
+  * :file_folder: time
     * :file_folder: test
         * :page_facing_up: __init__.py
         * :page_facing_up: [test_timefutebol.py](#teste-timefutebol)
