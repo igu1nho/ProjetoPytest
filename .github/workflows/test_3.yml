@@ -9,7 +9,7 @@ on:
 
 defaults:
   run:
-    working-directory: ./atendimento/
+    working-directory: ./general/
 
 jobs:
   build:
