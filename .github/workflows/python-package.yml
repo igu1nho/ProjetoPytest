@@ -34,18 +34,6 @@ jobs:
     - name: Testes (atendimento/)
       run: pytest
       
-    - name: Pytest (time/)
-      run: pip install flake8 pytest
-      
-    - name: Testes (time/)
-      run: pytest
-      
-    - name: Pytest (general/)
-      run: pip install flake8 pytest
-      
-    - name: Testes (general/)
-      run: pytest
-      
     - name: Install pytest-html
       run: pip install pytest-html
       
@@ -58,18 +46,6 @@ jobs:
     - name: Build Package
       run: python test_monitoria.py sdist bdist_wheel
       
-    - name: Build Package
-      run: python timefutebol.py sdist bdist_wheel
-      
-    - name: Build Package
-      run: python test_timefutebol.py sdist bdist_wheel
-      
-    - name: Build Package
-      run: python generalgame.py sdist bdist_wheel
-      
-    - name: Build Package
-      run: python test_generalgame.py sdist bdist_wheel
-
     - name: Upload Artifacts
       uses: actions/upload-artifact@v2
       with:
