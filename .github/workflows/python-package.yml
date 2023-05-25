@@ -45,3 +45,32 @@ jobs:
       
     - name: Testes (general/)
       run: pytest
+
+    - name: Generate Test Report
+      run: pytest --html=reports.html
+      
+    - name: Build Package
+      run: python monitoria.py sdist bdist_wheel
+      
+    - name: Build Package
+      run: python test_monitoria.py sdist bdist_wheel
+      
+    - name: Build Package
+      run: python timefutebol.py sdist bdist_wheel
+      
+    - name: Build Package
+      run: python test_timefutebol.py sdist bdist_wheel
+      
+    - name: Build Package
+      run: python generalgame.py sdist bdist_wheel
+      
+    - name: Build Package
+      run: python test_generalgame.py sdist bdist_wheel
+
+    - name: Upload Artifacts
+      uses: actions/upload-artifact@v2
+      with:
+        name: Artifacts
+        path: |
+          report.html
+          dist/
