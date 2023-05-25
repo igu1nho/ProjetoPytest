@@ -34,14 +34,12 @@ jobs:
     - name: Testes (atendimento/)
       run: pytest
       
-    - name: Change working directory to 'time/'
-      run: cd ../time/
+    - name: Pytest (time/)
+      run: pip install flake8 pytest
       
-    - name: Install dependencies (time/)
-      run: |
-        python -m pip install --upgrade pip
-        pip install build
-        
+    - name: Testes (time/)
+      run: pytest
+      
     - name: Pytest (general/)
       run: pip install flake8 pytest
       
