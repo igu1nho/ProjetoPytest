@@ -101,6 +101,15 @@ pytest -x ou pytest nome_do_arquivo.py -x
   * :file_folder: timefutebol
     * :file_folder: test
         * :page_facing_up: __init__.py
+        * :page_facing_up: [test_generalgame.py](#teste-generalgame)
+     * :page_facing_up: __init__.py
+     * :page_facing_up: [generalgame.py](#generalgame)
+<!--te-->
+
+<!--ts-->
+  * :file_folder: timefutebol
+    * :file_folder: test
+        * :page_facing_up: __init__.py
         * :page_facing_up: [test_timefutebol.py](#teste-timefutebol)
      * :page_facing_up: __init__.py
      * :page_facing_up: [timefutebol.py](#timefutebol)
