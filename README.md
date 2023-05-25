@@ -17,13 +17,9 @@ Lucas(Quantidade de títulos de um time de futebol)
 Rodrigo()
 
 ## Equipe
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/89806466?s=400&u=e8107d3d169b3775f289e49470b097b45d778d68&v=4" width="100px;" alt="Igor Luiz Rodrigues"/></td>
-    
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/89883718?v=4" width="100px;" alt="Lucas Henrique"/></td>
-    
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/77506652?v=4" width="100px;" alt="Rodrigo Braga"/></td>
-
-   
+| ![Igor Luiz Rodrigues](https://avatars.githubusercontent.com/u/89806466?s=400&u=e8107d3d169b3775f289e49470b097b45d778d68&v=4) | ![Lucas Henrique](https://avatars.githubusercontent.com/u/89883718?v=4) | ![Rodrigo Braga](https://avatars.githubusercontent.com/u/77506652?v=4) |
+| --- | --- | --- |
+| Igor Luiz Rodrigues | Lucas Henrique | Rodrigo Braga |
 
 ## Instalação ⚙💻
 Se você gostaria de saber um pouco mais das informações sobre essa ferramenta de teste, você pode acessar a documentação oficial do <a href="https://docs.pytest.org/en/stable/index.html">Pytest</a>.<br> , O processo de instalação é simples, basta seguir o passo a passo abaixo:
