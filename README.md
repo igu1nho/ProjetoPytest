@@ -59,7 +59,7 @@ pytest --version
 Agora é hora de baixar o projeto e poder testar um pouco dessa ferramenta de testes.
 - Com o terminal ainda aberto, navegue até a pasta onde deseja salvar o projeto e cole o seguinte comando:
 ```bash
-git clone https://github.com/igu1nho/test_projeto/
+git clone https://github.com/igu1nho/ProjetoPytest
 ```
 
 **Pronto, tudo configurado! Agora é só escolher o seu IDE preferido e _Let's code with us_!**
