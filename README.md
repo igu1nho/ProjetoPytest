@@ -110,19 +110,19 @@ pytest -x ou pytest nome_do_arquivo.py -x
 <!--te-->
 
 ## Monitor
-![image](https://i.imgur.com/6FSDgDf.png)
+![image](https://i.imgur.com/vPEpQAj.png)
 
 ## Teste Monitor
-![image](https://imgur.com/i0IeGbF)
+![image](https://i.imgur.com/kVTtfX5.png)
 
 ## Time de Futebol
-![image](https://imgur.com/2p1UQUc)
+![image](https://i.imgur.com/2p1UQUc.png)
 
 ## Teste Time de Futebol
-![image](https://imgur.com/plYoHId)
+![image](https://i.imgur.com/plYoHId.png)
 
 ## Game
-![image](https://user-images.githubusercontent.com/73140691/139708100-b411dcec-753f-46ff-931c-5f01a6965640.png)
+![image](https://i.imgur.com/cAuBdTe.png)
 
 ## Teste Game
-![image](https://user-images.githubusercontent.com/73140691/139708280-9f5f391f-7802-4c33-a0ad-a0faf8abd680.png)
+![image](https://i.imgur.com/pciP0kA.png)
