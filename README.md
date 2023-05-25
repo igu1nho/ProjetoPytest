@@ -14,7 +14,7 @@ Projeto da matéria de Engenharia de Software (C214), ministrada pelo professor 
 Apresentaremos alguns testes de unidade feitos com a ferramenta de testes, ***Pytest***. Para isso desenvolvemos cada um um problema em ***python***, que será testado pelo teste.
 Igor(Horário de monitoria),
 Lucas(Quantidade de títulos de um time de futebol) e
-Rodrigo(General de um game)
+Rodrigo(General de um game).
 
 ## Equipe
 | ![Igor Luiz Rodrigues](https://avatars.githubusercontent.com/u/89806466?s=400&u=e8107d3d169b3775f289e49470b097b45d778d68&v=4) | ![Lucas Henrique](https://avatars.githubusercontent.com/u/89883718?v=4) | ![Rodrigo Braga](https://avatars.githubusercontent.com/u/77506652?v=4)|
