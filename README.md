@@ -13,7 +13,7 @@
 Projeto da matéria de Engenharia de Software (C214), ministrada pelo professor **Chris Lima**. Tem como um seminário relacionado a uma framework em específico no nosso caso o Pytest.<br>
 Apresentaremos alguns testes de unidade feitos com a ferramenta de testes, ***Pytest***. Para isso desenvolvemos cada um um problema em ***python***, que será testado pelo teste.
 Igor(Horário de monitoria),
-Lucas(Quantidade de títulos de um time de futebol)
+Lucas(Quantidade de títulos de um time de futebol) e
 Rodrigo(General de um game)
 
 ## Equipe
