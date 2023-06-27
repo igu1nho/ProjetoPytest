@@ -43,10 +43,10 @@ jobs:
       run: pytest --html=reports.html
       
     - name: Build Package
-      run: python monitoria.py sdist bdist_wheel
+      run: python atendimento/unitario/monitoria.py sdist bdist_wheel
       
     - name: Build Package
-      run: python test_monitoria.py sdist bdist_wheel
+      run: python atendimento/unitario/test_monitoria.py sdist bdist_wheel
       
     - name: Upload Artifacts
       uses: actions/upload-artifact@v2
